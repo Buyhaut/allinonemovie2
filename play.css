@@ -1,0 +1,33 @@
+ #display{
+    margin: 0 auto;
+    height:468px;
+    width:627px;
+    padding-top:37px;
+}
+
+#display img{
+    height:100%;
+    width:100%; 
+}
+
+.select{
+    padding-top:78px;
+
+}
+
+.select img{
+    width:146px;
+}
+
+.galleryrow {
+    display:block;
+}
+
+.videosection {
+    float:left;
+    margin-left:30px;
+}
+
+.imagesection {
+    float:left;
+}
